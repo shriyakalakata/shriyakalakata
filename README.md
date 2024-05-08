@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **shriyakalakata/shriyakalakata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Shriya!
+
+I am a Computer Science and Data Science student at New York University (NYU). 👩‍🎓
+
+**Currently working on:**
+* Automatic piano music transcription with deep learning 🎹
+* Contributing to open-source projects 💻
+
+**Fun fact:**
+I love puzzles 🧩 ([my current go-to](https://www.puzzle-bridges.com/))
