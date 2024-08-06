@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Shriya!
 
-I am a Computer Science and Data Science student at New York University (NYU). 👩‍🎓
+I am an upcoming Computer Science Masters student with a Machine Learning concentration at Columbia University. I recently graduated from New York University (NYU) with a Bachelor's in Computer Science and Data Science. 👩‍🎓
 
 **Currently working on:**
 * Automatic piano music transcription with deep learning 🎹
@@ -24,3 +24,5 @@ I am a Computer Science and Data Science student at New York University (NYU). �
 
 **Fun fact:**
 I love puzzles 🧩 ([my current go-to](https://www.puzzle-bridges.com/))
+
+More at [my website](https://www.shriyakalakata.com/)!
